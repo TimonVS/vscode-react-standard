@@ -36,12 +36,12 @@
 
   "classConstructor": {
     "prefix": "con",
-    "body": "constructor(props) {\n\tsuper(props)\n\t$0\n}\n",
+    "body": "constructor (props) {\n\tsuper(props)\n\t$0\n}\n",
     "description": "Adds a default constructor for the class that contains props as arguments"
   },
   "classConstructorContext": {
     "prefix": "conc",
-    "body": "constructor(props, context) {\n\tsuper(props, context)\n\t$0\n}\n",
+    "body": "constructor (props, context) {\n\tsuper(props, context)\n\t$0\n}\n",
     "description": "Adds a default constructor for the class that contains props and context as arguments"
   },
 
@@ -53,43 +53,43 @@
 
   "componentWillMount": {
     "prefix": "cwm",
-    "body": "\ncomponentWillMount() {\n\t$0\n}\n",
+    "body": "\ncomponentWillMount () {\n\t$0\n}\n",
     "description": "Invoked once, both on the client and server, immediately before the initial rendering occurs"
   },
 
   "componentDidMount": {
     "prefix": "cdm",
-    "body": "componentDidMount() {\n\t$0\n}\n",
+    "body": "componentDidMount () {\n\t$0\n}\n",
     "description": "Invoked once, only on the client (not on the server), immediately after the initial rendering occurs."
   },
 
   "componentWillReceiveProps": {
     "prefix": "cwr",
-    "body": "componentWillReceiveProps(nextProps) {\n\t$0\n}\n",
+    "body": "componentWillReceiveProps (nextProps) {\n\t$0\n}\n",
     "description": "Invoked when a component is receiving new props. This method is not called for the initial render."
   },
 
   "shouldComponentUpdate": {
     "prefix": "scu",
-    "body": "shouldComponentUpdate(nextProps, nextState) {\n\t$0\n}\n",
+    "body": "shouldComponentUpdate (nextProps, nextState) {\n\t$0\n}\n",
     "description": "Invoked before rendering when new props or state are being received. "
   },
 
   "componentWillUpdate": {
     "prefix": "cwup",
-    "body": "componentWillUpdate(nextProps, nextState) {\n\t$0\n}\n",
+    "body": "componentWillUpdate (nextProps, nextState) {\n\t$0\n}\n",
     "description": "Invoked immediately before rendering when new props or state are being received."
   },
 
   "componentDidUpdate": {
     "prefix": "cdup",
-    "body": "componentDidUpdate(prevProps, prevState) {\n\t$0\n}\n",
+    "body": "componentDidUpdate (prevProps, prevState) {\n\t$0\n}\n",
     "description": "Invoked immediately after the component's updates are flushed to the DOM."
   },
 
   "componentWillUnmount": {
     "prefix": "cwun",
-    "body": "componentWillUnmount() {\n\t$0\n}\n",
+    "body": "componentWillUnmount () {\n\t$0\n}\n",
     "description": "Invoked immediately before a component is unmounted from the DOM."
   },
 
