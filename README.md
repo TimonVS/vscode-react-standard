@@ -17,7 +17,7 @@ There you have either the option to show the already installed snippets or insta
 
 Launch VS Code Quick Open (Ctrl + P or Cmd + P), paste the following command, and press enter.
 
-```ext install ReactSnippetsStandard```
+```ext install react-snippets-standard```
 
 Alternatively you can open the extensions panel and search for 'React snippets Standard'.
 
