@@ -1,7 +1,7 @@
 {
-  "name": "react-snippets-standard",
+  "name": "ReactSnippetsStandard",
   "description": "Code snippets for React development in ES6 syntax following the JavaScript Standard Style guidelines",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "React Standard Style code snippets",
   "publisher": "TimonVS",
   "icon": "images/react.png",
