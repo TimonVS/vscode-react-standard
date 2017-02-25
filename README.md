@@ -4,9 +4,9 @@
 
 This extension contains code snippets for [React][react] following the [JavaScript Standard Style](http://standardjs.com/) guidelines and is based on the awesome [babel-sublime-snippets][babelsublime] package.
 
-[![Version](http://vsmarketplacebadge.apphb.com/version/xabikos.ReactSnippets.svg)](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
-[![Installs](http://vsmarketplacebadge.apphb.com/installs/xabikos.ReactSnippets.svg)](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating/xabikos.ReactSnippets.svg)](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
+[![Version](http://vsmarketplacebadge.apphb.com/version/TimonVS.ReactSnippetsStandard.svg)](https://marketplace.visualstudio.com/items?itemName=TimonVS.ReactSnippetsStandard)
+[![Installs](http://vsmarketplacebadge.apphb.com/installs/TimonVS.ReactSnippetsStandard.svg)](https://marketplace.visualstudio.com/items?itemName=TimonVS.ReactSnippetsStandard)
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating/TimonVS.ReactSnippetsStandard.svg)](https://marketplace.visualstudio.com/items?itemName=TimonVS.ReactSnippetsStandard)
 
 This extension contains code snippets for [Reactjs][react] and is based on the awesome [babel-sublime-snippets][babelsublime] package.
 
