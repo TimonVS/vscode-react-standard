@@ -28,7 +28,6 @@ Alternatively you can open the extensions panel and search for 'React snippets S
 * TypeScript (.ts)
 * JavaScript React (.jsx)
 * TypeScript React (.tsx)
-* JSX after installing the [corresponding extension](https://marketplace.visualstudio.com/items?itemName=TwentyChung.jsx)
 
 ## Snippets
 
