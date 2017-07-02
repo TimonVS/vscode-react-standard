@@ -1,3 +1,11 @@
+> **DEPRECATION NOTICE:** This plugin has been deprecated. As an alternative, please use [vscode-react](https://github.com/xabikos/vscode-react) in conjunction with a formatter that can format the code according to StandardJS style. Formatters include:
+>  - [Prettier](https://github.com/prettier/prettier) - A code formatter that supports JS, JSX, CSS, SCSS and more. Can be configured to broadly follow StandardJS rules, it can also be used in conjuction with ESLint using [eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) or [prettier-eslint](https://github.com/prettier/prettier-eslint) to follow all of StandardJS rules.
+>  - [Standard](https://github.com/standard/standard) - The official StandardJS linter and code formatter. Use `standard --fix` to format your code.
+>  - [vscode-standardjs](https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standardjs) - VS Code plugin to format code using `standard --fix`.
+>  - ESLint with [eslint-config-standard](https://github.com/standard/eslint-config-standard)
+
+---
+
 > This is a fork of [vscode-react](https://github.com/xabikos/vscode-react) following [JavaScript Standard Style](http://standardjs.com/).
 
 # VS Code React Standard Style snippets
